@@ -1,0 +1,8 @@
+sources:
+- url
+- url
+- url
+- ...
+rss-name: nom_de_fichier
+destination: chemin
+tri-chrono: true
